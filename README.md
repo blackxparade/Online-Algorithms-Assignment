@@ -43,6 +43,7 @@ inputokon lesznek értékelve az algoritmusok.
 ### Megjegyzések ###
 
 A feladat megoldása során figyelembe kell venni a következőket:
+
 * A keretrendszer 1.8-as verziójú JAVA-t használva készült.
 * A JSON fájlok betöltéséhez a Gson könyvtár került felhasználásra, amelyet a közzétett Eclipse projekt
 tartalmaz.
